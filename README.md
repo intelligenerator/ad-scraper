@@ -85,13 +85,11 @@ For more examples check out the example
 
 ```json
 [
-    ...,
     {
         "name": "NYTimes",
         "url": "https://www.nytimes.com/",
         "cookies": "[data-testid='GDPR-accept']"
-    },
-    ...
+    }
 ]
 ```
 
