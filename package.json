@@ -1,0 +1,19 @@
+{
+    "name": "ad-scraper",
+    "version": "1.0.0",
+    "description": "Scrape ads from the interweb",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "scrape": "npm run start"
+    },
+    "keywords": [
+        "scraper",
+        "ads"
+    ],
+    "author": "Ulysse McConnell",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^5.0.0"
+    }
+}

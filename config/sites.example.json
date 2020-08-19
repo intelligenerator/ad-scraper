@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com/"
+    },
+    {
+        "name": "NYTimes",
+        "url": "https://www.nytimes.com/",
+        "cookies": "[data-testid='GDPR-accept']"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "cookies": "[type=submit]",
+        "additional": ["#some-selector", ".another-unique-selector"]
+    }
+]
